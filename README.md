@@ -1,7 +1,7 @@
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="fa">
-<ead>
+<head>
   <meta charset="UTF-8">
   <title>🌐 بررسی وضعیت وبسایت</title>
   <style>
